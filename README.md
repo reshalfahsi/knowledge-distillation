@@ -7,7 +7,7 @@
 </div>
 
 
-The goal of knowledge distillation is to improve the performance of the half-witted model, which, most of the time, has fewer parameters, by allowing it to learn from the more competent model or the teacher model. The half-witted model, or the student model, excerpts the knowledge from the teacher model by matching its class distribution to the teacher model's. To make the distributions softer, we can adjust a temperature _T_ to them (this is done by dividing the logits before softmax by the temperature). This project designates EfficientNet-B0 as the teacher and SqueezeNet v1.1 as the student. These models will be experimented on the DermaMNIST dataset of MedMNIST. We will take a look at the performance of the teacher, the student (without knowledge distillation), and the student (with knowledge distillation) in the result section.
+The goal of knowledge distillation is to improve the performance of the half-witted model, which, most of the time, has fewer parameters, by allowing it to learn from the more competent model or the teacher model. The half-witted model, or the student model, excerpts the knowledge from the teacher model by matching its class distribution to the teacher model's. To make the distributions softer (used in the training process as part of the loss function), we can adjust a temperature _T_ to them (this is done by dividing the logits before softmax by the temperature). This project designates EfficientNet-B0 as the teacher and SqueezeNet v1.1 as the student. These models will be experimented on the DermaMNIST dataset of MedMNIST. We will take a look at the performance of the teacher, the student (without knowledge distillation), and the student (with knowledge distillation) in the result section.
 
 
 ## Experiment
