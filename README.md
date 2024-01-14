@@ -83,5 +83,7 @@ The qualitative results of the models on the test set are exhibited in the colla
 
 - [Knowledge Distillation](https://keras.io/examples/vision/knowledge_distillation/)
 - [Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)
+- [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
+- [SqueezeNet v1.1](https://github.com/forresti/SqueezeNet/tree/master/SqueezeNet_v1.1)
 - [MedMNIST v2 - A large-scale lightweight benchmark for 2D and 3D biomedical image classification](https://medmnist.com/)
 - [PyTorch Lightning](https://lightning.ai/docs/pytorch/latest/)
