@@ -30,7 +30,7 @@ Student | 2.025 | 70.77% |
 Distilled | 7.409 | 71.17% |
 
 
-## Validation Accuracy and Loss Curve
+## Accuracy and Loss Curve
 
 ### Teacher
 
@@ -52,7 +52,7 @@ Distilled | 7.409 | 71.17% |
 <p align="center"> <img src="https://github.com/reshalfahsi/knowledge-distillation/blob/master/assets/distilled_acc_curve.png" alt="distilled_acc_curve" > <br /> The accuracy curve on the train set and the validation set of the distilled model. </p>
 
 
-### Overall
+### Overall Validation Curve
 
 <p align="center"> <img src="https://github.com/reshalfahsi/knowledge-distillation/blob/master/assets/overall_acc.png" alt="overall_acc" > <br /> Comparison of loss curves between the teacher model, the student model, and the distilled model on the validation set. </p>
 
