@@ -54,9 +54,10 @@ Distilled | 7.409 | 71.17% |
 
 ### Overall Validation Curve
 
-<p align="center"> <img src="https://github.com/reshalfahsi/knowledge-distillation/blob/master/assets/overall_acc.png" alt="overall_acc" > <br /> Comparison of loss curves between the teacher model, the student model, and the distilled model on the validation set. </p>
-
 <p align="center"> <img src="https://github.com/reshalfahsi/knowledge-distillation/blob/master/assets/overall_loss.png" alt="overall_loss" > <br /> Comparison of loss curves between the teacher model, the student model, and the distilled model on the validation set. </p>
+
+
+<p align="center"> <img src="https://github.com/reshalfahsi/knowledge-distillation/blob/master/assets/overall_acc.png" alt="overall_acc" > <br /> Comparison of accuracy curves between the teacher model, the student model, and the distilled model on the validation set. </p>
 
 
 ## Qualitative Result
