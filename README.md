@@ -25,9 +25,9 @@ The quantitative results are delivered below in the form of a table.
 
 Model | Loss | Accuracy |
 ------------ | ------------- | ------------- |
-Teacher |  2.271 | 71.99% |
-Student | 2.025 | 70.77% |
-Distilled | 7.409 | 71.17% |
+Teacher |  1.935 | 71.61% |
+Student | 1.932 | 69.02% |
+Distilled | 1.918 | 73.44% |
 
 
 ## Accuracy and Loss Curve
